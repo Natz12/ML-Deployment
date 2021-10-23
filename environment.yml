@@ -12,3 +12,5 @@ dependencies:
   - scikit-learn
   - joblib
   - mlflow
+  - fastapi
+  - uvicorn
