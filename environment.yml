@@ -10,7 +10,9 @@ dependencies:
   - seaborn
   - plotly
   - scikit-learn
+  - dill
   - joblib
   - mlflow
   - fastapi
   - uvicorn
+
