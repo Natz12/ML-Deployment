@@ -15,4 +15,5 @@ dependencies:
   - mlflow
   - fastapi
   - uvicorn
+  - python-multipart
 
